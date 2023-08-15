@@ -3,7 +3,7 @@
 ****
 **Introduction**
 
-  In this study, We developed FMNet to predict RBPs binding sites, aiming at the problem that existing models can’t obtain sufficient information from RNA sequences. FMNet uses weighted average method to fuse the RSNet, ReNet, CNNs, SACBiLSTM and SACBiGRU. More sequence feature information is extracted by FMNet through multi-scale windows. The FMNet can identify RBPs binding sites with high accuracy using only sequence information without using additional features, and uses CNN to identify binding motifs in RNA sequences, which is significantly better than existing models.
+  In this study, we developed FMNet to predict RBPs binding sites, aiming at the problem that existing models can’t obtain sufficient information from RNA sequences. FMNet uses weighted average method to fuse the RSNet, ReNet, CNNs, SACBiLSTM and SACBiGRU. More sequence feature information is extracted by FMNet through multi-scale windows. The FMNet can identify RBPs binding sites with high accuracy using only sequence information without using additional features, and uses CNN to identify binding motifs in RNA sequences, which is significantly better than existing models.
 ****
 
 ****
